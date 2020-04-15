@@ -1,7 +1,7 @@
 # "Is it down?" Bookmark
 
 Check websites for public availability if you can't access them.  
-This bookmark is available [on site](https://isitdown.github.io).
+This bookmark is available [on site](https://sivitsky.github.io/isitdown-bookmark/index.html).
 
 ## How to use
 

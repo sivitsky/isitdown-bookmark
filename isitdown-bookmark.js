@@ -1,1 +1,0 @@
-javascript: window.location = document.URL.replace("://", "://downforeveryoneorjustme.com/")

@@ -13,5 +13,4 @@ This bookmark is available [on site](https://sivitsky.github.io/isitdown-bookmar
 
 ## Contacts
 
-Ivan Sivitsky, mail to [me@g19.ru](mailto:me@g19.ru).  
-[View project page at GitHub](https://github.com/sivitsky/isitdown-bookmark)
+Ivan Sivitsky, mail to [me@g19.ru](mailto:me@g19.ru).
